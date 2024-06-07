@@ -1,1 +1,2 @@
-# -resort_website-
+# resort_website
+For my project, I developed a resort website designed to facilitate online bookings and manage customer reservations efficiently. The website allows users to browse available rooms, select their preferred dates, and book their stay seamlessly. All booking information is securely stored and managed using PHP, ensuring a reliable and smooth experience for both the resort staff and guests. This project aims to enhance the resort's online presence and streamline the booking process, providing convenience and satisfaction to our customers.
